@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="openstreetmap-cgimap 2.0.1 (2270262 spike-07.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="6.9065445" minlon="122.0761896" maxlat="6.9071976" maxlon="122.0765973"/>
+ <node id="1017307157" visible="true" version="5" changeset="160123355" timestamp="2024-12-10T10:31:14Z" user="Timmy_Tesseract" uid="5653955" lat="6.9062739" lon="122.0750060"/>
+ <node id="1017307248" visible="true" version="5" changeset="92037631" timestamp="2020-10-06T09:44:50Z" user="MaillotJaune" uid="8794053" lat="6.9072913" lon="122.0778777"/>
+ <node id="1017322596" visible="true" version="1" changeset="6522041" timestamp="2010-12-03T02:03:05Z" user="BlueArrow" uid="151670" lat="6.9066982" lon="122.0762155"/>
+ <node id="1017322638" visible="true" version="1" changeset="6522041" timestamp="2010-12-03T02:03:05Z" user="BlueArrow" uid="151670" lat="6.9072148" lon="122.0760394"/>
+ <node id="1017392992" visible="true" version="5" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9083675" lon="122.0756977"/>
+ <node id="1453554909" visible="true" version="2" changeset="98147543" timestamp="2021-01-25T23:07:39Z" user="TommyLanez" uid="11073808" lat="6.9062912" lon="122.0767247"/>
+ <node id="1453554910" visible="true" version="1" changeset="9457959" timestamp="2011-10-03T08:49:32Z" user="docsam" uid="191298" lat="6.9068063" lon="122.0765237"/>
+ <node id="1453554916" visible="true" version="2" changeset="22172238" timestamp="2014-05-06T18:09:25Z" user="Mars Baybay" uid="2005745" lat="6.9075142" lon="122.0759439"/>
+ <node id="2730501491" visible="true" version="2" changeset="98147543" timestamp="2021-01-25T23:07:39Z" user="TommyLanez" uid="11073808" lat="6.9061663" lon="122.0763982"/>
+ <node id="2755704980" visible="true" version="2" changeset="21590949" timestamp="2014-04-09T15:11:31Z" user="Mars Baybay" uid="2005745" lat="6.9063821" lon="122.0752972"/>
+ <node id="2755704981" visible="true" version="2" changeset="22107754" timestamp="2014-05-03T15:47:32Z" user="Mars Baybay" uid="2005745" lat="6.9064907" lon="122.0756175"/>
+ <node id="2755704982" visible="true" version="1" changeset="21414934" timestamp="2014-03-31T08:27:56Z" user="maning" uid="1417" lat="6.9065954" lon="122.0759288"/>
+ <node id="2755734043" visible="true" version="2" changeset="22117572" timestamp="2014-05-04T03:40:13Z" user="Mars Baybay" uid="2005745" lat="6.9065839" lon="122.0766613"/>
+ <node id="2755734044" visible="true" version="2" changeset="22117572" timestamp="2014-05-04T03:40:13Z" user="Mars Baybay" uid="2005745" lat="6.9066516" lon="122.0768552"/>
+ <node id="2755734045" visible="true" version="2" changeset="22117572" timestamp="2014-05-04T03:40:13Z" user="Mars Baybay" uid="2005745" lat="6.9067722" lon="122.0765947"/>
+ <node id="2755734048" visible="true" version="2" changeset="22117572" timestamp="2014-05-04T03:40:13Z" user="Mars Baybay" uid="2005745" lat="6.9068398" lon="122.0767886"/>
+ <node id="2778840409" visible="true" version="1" changeset="21583195" timestamp="2014-04-09T06:29:46Z" user="Mars Baybay" uid="2005745" lat="6.9070852" lon="122.0773110"/>
+ <node id="2779096206" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9066257" lon="122.0760942"/>
+ <node id="2779096207" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9066502" lon="122.0761605"/>
+ <node id="2779096209" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9066441" lon="122.0761820"/>
+ <node id="2779096210" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9066349" lon="122.0761967"/>
+ <node id="2779096212" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9066189" lon="122.0762151"/>
+ <node id="2779096213" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9064430" lon="122.0762737"/>
+ <node id="2779096215" visible="true" version="1" changeset="21586547" timestamp="2014-04-09T10:28:09Z" user="Mars Baybay" uid="2005745" lat="6.9064055" lon="122.0761728"/>
+ <node id="2838921796" visible="true" version="3" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9072184" lon="122.0761164"/>
+ <node id="2838921797" visible="true" version="3" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9071113" lon="122.0761532"/>
+ <node id="2838921798" visible="true" version="3" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9071695" lon="122.0762777"/>
+ <node id="2838921799" visible="true" version="3" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9072903" lon="122.0762761"/>
+ <node id="2840189304" visible="true" version="1" changeset="22172238" timestamp="2014-05-06T18:09:25Z" user="Mars Baybay" uid="2005745" lat="6.9074810" lon="122.0759545"/>
+ <node id="2840189307" visible="true" version="2" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9070615" lon="122.0760917"/>
+ <node id="2840189308" visible="true" version="2" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9071501" lon="122.0762707"/>
+ <node id="2883463974" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9065877" lon="122.0763050"/>
+ <node id="2883463975" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9066270" lon="122.0764159"/>
+ <node id="2883463976" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9065121" lon="122.0764572"/>
+ <node id="2883463977" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9065035" lon="122.0764328"/>
+ <node id="2883463978" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9064028" lon="122.0764690"/>
+ <node id="2883463979" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:31Z" user="Mars Baybay" uid="2005745" lat="6.9063722" lon="122.0763826"/>
+ <node id="3919406347" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9067707" lon="122.0763137"/>
+ <node id="3919406348" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9068474" lon="122.0765637"/>
+ <node id="3919406349" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9068616" lon="122.0765840"/>
+ <node id="3919406350" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9072405" lon="122.0764891"/>
+ <node id="3919406351" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9071575" lon="122.0763197"/>
+ <node id="3919406354" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9070226" lon="122.0763644"/>
+ <node id="3919406355" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9069457" lon="122.0761890"/>
+ <node id="3919406356" visible="true" version="2" changeset="36336496" timestamp="2016-01-03T12:00:04Z" user="Mars Baybay" uid="2005745" lat="6.9067978" lon="122.0762462"/>
+ <node id="3925290903" visible="true" version="3" changeset="82393696" timestamp="2020-03-19T14:10:20Z" user="azakh-world" uid="9126171" lat="6.9068491" lon="122.0762833">
+  <tag k="name" v="Uni City"/>
+  <tag k="shop" v="department_store"/>
+ </node>
+ <node id="3925290905" visible="true" version="4" changeset="82393696" timestamp="2020-03-19T14:10:20Z" user="azakh-world" uid="9126171" lat="6.9069878" lon="122.0762089">
+  <tag k="addr:city" v="Zamboanga"/>
+  <tag k="addr:postcode" v="7000"/>
+  <tag k="addr:street" v="La Purisima Street"/>
+  <tag k="addr:village" v="Zone IV"/>
+  <tag k="name" v="3G Telecom Plaza"/>
+  <tag k="shop" v="mobile_phone"/>
+ </node>
+ <node id="4910731921" visible="true" version="3" changeset="82393696" timestamp="2020-03-19T14:10:20Z" user="azakh-world" uid="9126171" lat="6.9066701" lon="122.0762814">
+  <tag k="amenity" v="fast_food"/>
+  <tag k="cuisine" v="chinese"/>
+  <tag k="name" v="Mongkok City"/>
+  <tag k="name:en" v="Mongkok City"/>
+ </node>
+ <node id="4916156422" visible="true" version="3" changeset="82393696" timestamp="2020-03-19T14:10:20Z" user="azakh-world" uid="9126171" lat="6.9066658" lon="122.0763057">
+  <tag k="amenity" v="restaurant"/>
+  <tag k="cuisine" v="grill"/>
+  <tag k="name" v="Bojol Grill"/>
+  <tag k="name:en" v="Bojol Grill"/>
+ </node>
+ <node id="4916163222" visible="true" version="3" changeset="82393696" timestamp="2020-03-19T14:10:20Z" user="azakh-world" uid="9126171" lat="6.9066352" lon="122.0762909">
+  <tag k="amenity" v="cafe"/>
+  <tag k="name" v="Villagio Cafe"/>
+  <tag k="name:en" v="Villagio Cafe"/>
+ </node>
+ <node id="7682467817" visible="true" version="1" changeset="87527598" timestamp="2020-07-04T10:24:13Z" user="GOwin" uid="1041828" lat="6.9065106" lon="122.0766399"/>
+ <node id="8032187533" visible="true" version="1" changeset="92831891" timestamp="2020-10-21T12:04:04Z" user="MaillotJaune" uid="8794053" lat="6.9071262" lon="122.0774237"/>
+ <node id="10887449085" visible="true" version="2" changeset="157694408" timestamp="2024-10-10T01:09:09Z" user="uᴉʍOꓨ" uid="6591426" lat="6.9083070" lon="122.0757151">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="crossing:markings" v="zebra"/>
+  <tag k="highway" v="crossing"/>
+  <tag k="kerb" v="raised"/>
+  <tag k="wheelchair" v="no"/>
+ </node>
+ <node id="10887449172" visible="true" version="1" changeset="135987983" timestamp="2023-05-11T17:46:18Z" user="rvsiyluy" uid="18407345" lat="6.9071143" lon="122.0760737">
+  <tag k="crossing" v="uncontrolled"/>
+  <tag k="highway" v="crossing"/>
+ </node>
+ <way id="87473808" visible="true" version="22" changeset="158160078" timestamp="2024-10-21T09:03:41Z" user="GrabPHJoshua" uid="10044745">
+  <nd ref="1017322596"/>
+  <nd ref="1453554910"/>
+  <nd ref="2778840409"/>
+  <nd ref="8032187533"/>
+  <nd ref="1017307248"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Tomas Claudio Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+ <way id="132069532" visible="true" version="8" changeset="94351025" timestamp="2020-11-18T10:17:54Z" user="MonteGeneroso" uid="10210169">
+  <nd ref="1453554909"/>
+  <nd ref="7682467817"/>
+  <nd ref="1453554910"/>
+  <tag k="highway" v="unclassified"/>
+  <tag k="lanes" v="2"/>
+  <tag k="name" v="Almonte Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="270758563" visible="true" version="1" changeset="21430261" timestamp="2014-03-31T23:26:56Z" user="GOwin" uid="1041828">
+  <nd ref="2755734045"/>
+  <nd ref="2755734043"/>
+  <nd ref="2755734044"/>
+  <nd ref="2755734048"/>
+  <nd ref="2755734045"/>
+  <tag k="building" v="commercial"/>
+ </way>
+ <way id="273016346" visible="true" version="2" changeset="60678353" timestamp="2018-07-13T08:26:53Z" user="GOwin" uid="1041828">
+  <nd ref="2779096206"/>
+  <nd ref="2779096207"/>
+  <nd ref="2779096209"/>
+  <nd ref="2779096210"/>
+  <nd ref="2779096212"/>
+  <nd ref="2779096213"/>
+  <nd ref="2779096215"/>
+  <nd ref="2779096206"/>
+  <tag k="addr:city" v="Zamboanga"/>
+  <tag k="addr:postcode" v="7000"/>
+  <tag k="addr:street" v="La Purisima Street"/>
+  <tag k="building" v="commercial"/>
+ </way>
+ <way id="279685515" visible="true" version="1" changeset="22159845" timestamp="2014-05-06T06:34:52Z" user="Mars Baybay" uid="2005745">
+  <nd ref="2838921796"/>
+  <nd ref="2838921797"/>
+  <nd ref="2838921798"/>
+  <nd ref="2838921799"/>
+  <nd ref="2838921796"/>
+  <tag k="building" v="yes"/>
+  <tag k="building:levels" v="3"/>
+ </way>
+ <way id="279829631" visible="true" version="1" changeset="22172238" timestamp="2014-05-06T18:09:25Z" user="Mars Baybay" uid="2005745">
+  <nd ref="2840189307"/>
+  <nd ref="2840189308"/>
+  <tag k="highway" v="service"/>
+ </way>
+ <way id="284624094" visible="true" version="1" changeset="22582756" timestamp="2014-05-27T14:20:32Z" user="Mars Baybay" uid="2005745">
+  <nd ref="2883463974"/>
+  <nd ref="2883463975"/>
+  <nd ref="2883463976"/>
+  <nd ref="2883463977"/>
+  <nd ref="2883463978"/>
+  <nd ref="2883463979"/>
+  <nd ref="2883463974"/>
+  <tag k="building" v="yes"/>
+  <tag k="name" v="Lim Town Building"/>
+ </way>
+ <way id="388768637" visible="true" version="4" changeset="164613277" timestamp="2025-04-07T01:49:57Z" user="uᴉʍOꓨ" uid="6591426">
+  <nd ref="3919406347"/>
+  <nd ref="3919406348"/>
+  <nd ref="3919406349"/>
+  <nd ref="3919406350"/>
+  <nd ref="3919406351"/>
+  <nd ref="3919406354"/>
+  <nd ref="3919406355"/>
+  <nd ref="3919406356"/>
+  <nd ref="3919406347"/>
+  <tag k="addr2:street" v="Tomas Claudio Street"/>
+  <tag k="addr:city" v="Zamboanga City"/>
+  <tag k="addr:postcode" v="7000"/>
+  <tag k="addr:quarter" v="Zone III"/>
+  <tag k="addr:street" v="La Purisima Street"/>
+  <tag k="building" v="yes"/>
+  <tag k="level" v="5"/>
+  <tag k="name" v="Ever O Business Hotel"/>
+  <tag k="phone" v="+6362 9551433"/>
+  <tag k="tourism" v="hotel"/>
+ </way>
+ <way id="913408212" visible="true" version="3" changeset="157694408" timestamp="2024-10-10T01:09:09Z" user="uᴉʍOꓨ" uid="6591426">
+  <nd ref="1017392992"/>
+  <nd ref="10887449085"/>
+  <nd ref="1453554916"/>
+  <nd ref="2840189304"/>
+  <nd ref="1017322638"/>
+  <nd ref="10887449172"/>
+  <nd ref="2840189307"/>
+  <nd ref="1017322596"/>
+  <nd ref="2730501491"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="lanes" v="2"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="La Purisima Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="sidewalk" v="both"/>
+  <tag k="source" v="Bing"/>
+  <tag k="surface" v="concrete"/>
+ </way>
+ <way id="1326460902" visible="true" version="1" changeset="158160078" timestamp="2024-10-21T09:03:41Z" user="GrabPHJoshua" uid="10044745">
+  <nd ref="1017322596"/>
+  <nd ref="2755704982"/>
+  <nd ref="2755704981"/>
+  <nd ref="2755704980"/>
+  <nd ref="1017307157"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Tomas Claudio Street"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="Bing"/>
+ </way>
+</osm>
